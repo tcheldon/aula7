@@ -6,15 +6,18 @@ function App() {
   const users = [
     {
         id: 0,
-        name: 'Siri'
+        name: 'Neymar',
+        time: 'Paris San German'
     },
     {
         id: 1,
-        name: 'Alexa'
+        name: 'Messi',
+        time: 'Inter Miami'
     },
     {
         id: 2,
-        name: 'Google Assistente'
+        name: 'Vini Jr',
+        time: 'Real Madrid'
     }
 ];
 
